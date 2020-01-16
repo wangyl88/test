@@ -9,4 +9,6 @@ branch master add a line to generate conflict
 
 branch release add another line to make confliction
 
-directory othertest add a line
+directory test add a line to release
+
+directory othertest add a line release too
