@@ -5,4 +5,4 @@ sth to be inserted again!
 
 add a line on branch release
 
-branch release add another line to generate conflict
+branch master add a line to generate conflict
