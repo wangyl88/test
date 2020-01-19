@@ -10,3 +10,5 @@ branch master add a line to generate conflict
 branch release add another line to make confliction
 
 directory test add a line to release
+
+dev3 add a line
