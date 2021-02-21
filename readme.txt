@@ -7,4 +7,4 @@ add a line on branch release
 
 wangyl make confliction
 
-make confliction
+confliction
